@@ -1,7 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.19.2-2.3.16a-fabric.jar"
+filename = "supplementaries-1.19.2-2.4.21-fabric.jar"
+side = "both"
 
 [download]
-url = "https://github.com/HexxyCraft/Supplementaries/releases/download/2.3.16a/supplementaries-1.19.2-2.3.16a-fabric.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/VQx7vGrB/supplementaries-1.19.2-2.4.21-fabric.jar"
 hash-format = "sha1"
-hash = "5580ee2d44e967c1b6abfbd62e4e56b9154cb7b9"
+hash = "fae604ee5b0add35616a999506ed638c5b229053"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "VQx7vGrB"
